@@ -12,7 +12,7 @@
 /build
 
 # firebase-api
-/src/firebase
+/src/firebase.js
 
 # misc
 .DS_Store
